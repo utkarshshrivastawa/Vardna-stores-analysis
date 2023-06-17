@@ -53,16 +53,16 @@ These steps provide a general framework for analyzing the Vardna stores dataset.
 
 
 #Step 5:
-@Sample Insights
-	@Women are most likely to buy compared to men (approx 65%)
-	@Maharashtra , Karnataka and Uttar Pradesh are top 3 states (approx 32%)
-	@Adults age group (30-49 yrs)  is max contributing (approx 35%)
-	@Amazon,Flipkart and Mntra channels are max contributing (approx 80%)
+	Sample Insights
+		Women are most likely to buy compared to men (approx 65%)
+		Maharashtra , Karnataka and Uttar Pradesh are top 3 states (approx 32%)
+		Adults age group (30-49 yrs)  is max contributing (approx 35%)
+		Amazon,Flipkart and Mntra channels are max contributing (approx 80%)
 
 #Step 6:
-     @Result:
-       @Final Conclusions to  improve Vrinda store sales:
-	      @Target **Women** customers of ** age group(30-49 yrs)** living in **Maharashtra , Karnataka and Uttar Pradesh** by showing ads/offers/coupons available on **Amazon,Flipkart and Mntra**. 
+     Result:
+       Final Conclusions to  improve Vrinda store sales:
+	      Target **Women** customers of ** age group(30-49 yrs)** living in **Maharashtra , Karnataka and Uttar Pradesh** by showing ads/offers/coupons available on **Amazon,Flipkart and Mntra**. 
 
 
 
