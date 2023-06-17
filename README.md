@@ -1,0 +1,1 @@
+# Vardna-stores-analysis
