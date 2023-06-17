@@ -62,7 +62,7 @@ These steps provide a general framework for analyzing the Vardna stores dataset.
 #Step 6:
      Result:
        Final Conclusions to  improve Vrinda store sales:
-	      Target ** Women** customers of ** age group(30-49 yrs)** living in **Maharashtra , Karnataka and Uttar Pradesh** by showing ads/offers/coupons available            on **Amazon,Flipkart and Mntra**. 
+	      Target **Women** customers of ** age group(30-49 yrs)** living in **Maharashtra , Karnataka and Uttar Pradesh** by showing ads/offers/coupons available            on **Amazon,Flipkart and Mntra**. 
 
 
 
