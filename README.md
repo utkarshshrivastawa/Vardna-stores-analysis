@@ -25,12 +25,15 @@ Look for variations in gender values, such as "W," "M," "Women," and "Men." Appl
 
 ### Age group categories:
 Create age group categories based on the relationship between gender and age. For example, you can use the following formula in a new column:
-    =IF(F2>=50, "Senior", IF(F2>30, "Adult", "Teenager"))
+
+	IF(F2>=50, "Senior", IF(F2>30, "Adult", "Teenager"))
      Adjust the column references according to your dataset structure. This formula categorizes individuals as "Senior" if their age is 50 or above, "Adult" if        their age is between 30 and 49, and "Teenager" if their age is below 30.
 
 ### Month column:
  Create a new column called "Month" to extract the month from a date column (let's assume it's column H). Use the formula:
-    =TEXT(H2, "mmm")
+ 		
+   
+   	=TEXT(H2, "mmm")
     This formula will display the first three letters of the month. If you want the full month name, change "mmm" to "mmmm" in the formula.
 
 ### Remove formulas:
