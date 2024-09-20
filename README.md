@@ -69,3 +69,4 @@ Amazon,Flipkart and Mntra channels are max contributing (approx 80%)
 
 
 
+https://github.com/utkarshshrivastawa/Vardna-stores-analysis/blob/main/vardnastore.png
